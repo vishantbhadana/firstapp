@@ -1,13 +1,13 @@
-selenium
-requests
+streamlit
 pandas
+requests
+python-dateutil      # ← correct name
+beautifulsoup4       # ← instead of bs4
 kiteconnect
-bs4
-dateutil
 plotly
 openai
 reportlab
-dotenv
+python-dotenv        # ← instead of dotenv
+selenium             # remove if you don’t need browser automation
 yfinance
-streamlit
 PyPDF2
