@@ -11,3 +11,4 @@ python-dotenv        # ← instead of dotenv
 selenium             # remove if you don’t need browser automation
 yfinance
 PyPDF2
+pyotp
