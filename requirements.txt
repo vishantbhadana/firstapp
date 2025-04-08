@@ -1,15 +1,11 @@
 selenium
-time
-os
 requests
 pandas
 kiteconnect
 bs4
-datetime
 dateutil
 plotly
 openai
-re
 reportlab
 dotenv
 yfinance
